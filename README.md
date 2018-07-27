@@ -1,9 +1,9 @@
-## Random Files
+# Random Files
 
 This is my first repo, I will use it to store all my old code:
 
-# Mushroom picking:
+## Mushroom picking:
 
-# Tomato picking:
+## Tomato picking:
 
-# Anything else:
+## Anything else:
